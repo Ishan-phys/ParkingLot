@@ -1,0 +1,17 @@
+{
+  "name": "parkinglot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "debug": "nodemon server.js"
+  },
+  "author": "Ishan Srivastava",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.14.1",
+    "uuid": "^11.1.0"
+  }
+}
